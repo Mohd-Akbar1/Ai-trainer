@@ -6,12 +6,14 @@ export default function Home() {
     <div>
      home Page
 
-     <h1>signed out</h1>
+     <h1>Welcome to Ai based fitness trainer</h1>
      <SignedOut>
      
      <SignInButton/>
      </SignedOut>
 
+
+    <h1>Sign Out</h1>
      <SignedIn>
          <SignedOut/>
      </SignedIn>
